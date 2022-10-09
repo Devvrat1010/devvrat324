@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devvrat324
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning machine learning
+- 🌱 I’m currently learning opencv, a python library
 
 - 📫 How to reach me : Mail me
 
