@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @devvrat324
-- 👀 I’m interested in learning machine learning
-- 🌱 I’m currently learning opencv, a python library
+- 🧾 I am Currently working on Hand Gesture Recognition Algorithm
+- 🌱 I’m currently learning OpenCv, Machine learning
+- 📫 Contact me at rathoddevvratsingh777@gmail.com
 
-- 📫 How to reach me : Mail me
+
+
 
 <!---
 devvrat324/devvrat324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
